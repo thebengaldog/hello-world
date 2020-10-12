@@ -1,0 +1,2 @@
+# hello-world
+JUST ME GETTING STARTED WITH GIT HUB
